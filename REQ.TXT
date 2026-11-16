@@ -1,0 +1,6 @@
+# Image Processing Notebook - VS Code (Python 3.11 recommended)
+# Install: python -m pip install -r REQ.TXT
+numpy>=1.26,<3
+opencv-python-headless>=4.8,<5
+matplotlib>=3.8,<4
+ipykernel>=6.29,<8

@@ -1,0 +1,31 @@
+# Python and virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter / editor
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Secrets and personal config
+.env
+.env.*
+*.pem
+*.key
+.streamlit/secrets.toml
+**/.streamlit/secrets.toml
+
+# Temporary files and logs
+*.log
+*.tmp
